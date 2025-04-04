@@ -1,0 +1,73 @@
+{
+  "StudentID": "BN001",
+  "StudentName": "Andrew N",
+  "DateOfBirth": "01/01/2003",
+  "Gender": "Male",
+  "Major": "Computer Science",
+  "CGPA": 8.5,
+  "CreditsEarned": 120,
+  "PlacementCoordinators": [
+    {
+      "CoordinatorID": "BS001",
+      "Role": "Placement Coordinator - Industry Partnerships"
+    },
+    {
+      "CoordinatorID": "BS002",
+      "Role": "Placement Coordinator - Internship Programs"
+    }
+  ],
+  "InternshipHistory": [
+    {
+      "year": "2021",
+      "description": "Attended Python Workshop and Hackathon"
+    },
+    {
+      "year": "2022",
+      "description": "Internship at ABC Tech Company"
+    }
+  ],
+  "TrainingPrograms": [
+    {
+      "program_name": "Data Structures Workshop",
+      "duration": "2 weeks",
+      "frequency": "Daily sessions",
+      "start_date": "01/01/2022",
+      "end_date": "15/01/2022"
+    },
+    {
+      "program_name": "Interview Preparation Course",
+      "duration": "4 weeks",
+      "frequency": "Daily sessions",
+      "start_date": "01/01/2022",
+      "end_date": "29/01/2022"
+    },
+    {
+      "program_name": "Soft Skills Training",
+      "duration": "3 weeks",
+      "frequency": "Bi-daily sessions",
+      "start_date": "01/01/2022",
+      "end_date": "22/01/2022"
+    },
+    {
+      "program_name": "Internship at Tech Company",
+      "duration": "6 months",
+      "frequency": "Full-time",
+      "start_date": "01/01/2022",
+      "end_date": "01/07/2022"
+    }
+  ],
+  "PlacementEvents": [
+    {
+      "event_name": "Campus Recruitment Drive",
+      "event_date": "01/01/2022",
+      "event_duration": "1 day",
+      "event_location": "XYZ Convention Center"
+    }
+  ],
+  "ContactInformation": {
+    "Address": "123 University Ave, Campus Town",
+    "MobileNumber": "09xxxxxxxxxx",
+    "Email": "xyz@gmail.com"
+  }
+
+}
